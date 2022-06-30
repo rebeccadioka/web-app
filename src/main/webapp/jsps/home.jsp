@@ -33,8 +33,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DP black.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Acada Learning, 
-		Calgary, Alberta, Canada
+                Rebecca Dioka, 
+		Fort Washington, Maryland, USA
 		+1 587 574 2233,
 		info@acadalearning.com
 		<br>
@@ -47,6 +47,6 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <p align=center>Acada Learning - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2022 by <a href="http://acadalearning.com/">Acada Learning</a> </small></p>
-.
+
 </body>
 </html>
